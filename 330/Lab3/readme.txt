@@ -1,0 +1,1 @@
+Using the mechanism described in zyBooks Chapter 7, Special Topic 7.2, write a program that reads all data from a web page and writes it to a file. Prompt the user for the web page URL and the file. Throw and catch Exceptions using best practices.
